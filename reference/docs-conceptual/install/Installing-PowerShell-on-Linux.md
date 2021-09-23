@@ -1,7 +1,7 @@
 ---
-title: Install PowerShell on Linux
 description: Learn about the Linux distributions supported by PowerShell.
-ms.date: 08/05/2021
+ms.date: 09/22/2021
+title: Install PowerShell on Linux
 ---
 # Install PowerShell on Linux
 
@@ -44,14 +44,6 @@ Fedora uses DNF as its package manager.
 [!INCLUDE [Fedora support](../../includes/fedora-support.md)]
 
 For more information, see [Install .NET on Fedora](install-fedora.md).
-
-## openSUSE
-
-openSUSE uses zypper as the package manager.
-
-[!INCLUDE [openSUSE support](../../includes/opensuse-support.md)]
-
-For more information, see [Install PowerShell on openSUSE](install-opensuse.md).
 
 ## Red Hat Enterprise Linux (RHEL)
 

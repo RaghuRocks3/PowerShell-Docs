@@ -1,9 +1,9 @@
 ---
 author: sdwheeler
 ms.author: sewhee
-ms.date: 08/09/2021
-ms.topic: include
+ms.date: 09/22/2021
 ms.prod: powershell
+ms.topic: include
 ---
 The following table lists the supported PowerShell releases and the versions of Fedora they're
 supported on. These versions are supported until either the version of
@@ -18,11 +18,11 @@ supported on. These versions are supported until either the version of
 
 |   Fedora    | 7.0 (LTS) | 7.1 (current) | 7.2 (LTS-preview) |
 | ----------- | :-------: | :-----------: | :---------------: |
-| &#x2705; 34 | &#x2705;  |   &#x2705;    |     &#x2705;      |
-| &#x2705; 33 | &#x2705;  |   &#x2705;    |     &#x2705;      |
 | &#x2705; 32 | &#x1f7e1; |   &#x1f7e1;   |     &#x274c;      |
 | &#x274c; 31 | &#x1f7e1; |   &#x1f7e1;   |     &#x274c;      |
 | &#x274c; 30 | &#x1f7e1; |   &#x1f7e1;   |     &#x274c;      |
+
+PowerShell has not been tested on Fedora versions 33 and 34.
 
 PowerShell is supported on Fedora for the following processor architectures.
 

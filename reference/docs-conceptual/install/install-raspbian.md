@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on Raspberry Pi OS
 description: Information about installing PowerShell on Raspberry Pi OS
-ms.date: 08/09/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on Raspberry Pi OS
 ---
 # Installing PowerShell on Raspberry Pi OS
 

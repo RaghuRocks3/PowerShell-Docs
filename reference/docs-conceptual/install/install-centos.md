@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on CentOS
 description: Information about installing PowerShell on CentOS
-ms.date: 08/06/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on CentOS
 ---
 # Installing PowerShell on CentOS
 

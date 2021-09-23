@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on Fedora Linux
 description: Information about installing PowerShell on Fedora Linux
-ms.date: 08/09/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on Fedora Linux
 ---
 # Installing PowerShell on Fedora Linux
 

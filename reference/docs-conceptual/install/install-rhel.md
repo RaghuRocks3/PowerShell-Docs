@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on Red Hat Enterprise Linux (RHEL)
 description: Information about installing PowerShell on Red Hat Enterprise Linux (RHEL)
-ms.date: 08/09/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on Red Hat Enterprise Linux (RHEL)
 ---
 # Installing PowerShell on Red Hat Enterprise Linux (RHEL)
 

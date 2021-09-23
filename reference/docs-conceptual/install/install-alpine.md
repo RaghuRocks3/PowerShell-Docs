@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on Alpine Linux
 description: Information about installing PowerShell on Alpine Linux
-ms.date: 08/06/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on Alpine Linux
 ---
 # Installing PowerShell on Alpine Linux
 

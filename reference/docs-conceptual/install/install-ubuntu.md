@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on Ubuntu
 description: Information about installing PowerShell on Ubuntu
-ms.date: 08/09/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on Ubuntu
 ---
 # Installing PowerShell on Ubuntu
 

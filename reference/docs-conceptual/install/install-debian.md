@@ -1,7 +1,7 @@
 ---
-title: Installing PowerShell on Debian Linux
 description: Information about installing PowerShell on Debian Linux
-ms.date: 08/06/2021
+ms.date: 09/22/2021
+title: Installing PowerShell on Debian Linux
 ---
 # Installing PowerShell on Debian Linux
 

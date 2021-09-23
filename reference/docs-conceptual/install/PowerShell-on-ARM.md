@@ -1,7 +1,7 @@
 ---
+description: PowerShell on Arm-based systems
+ms.date: 09/22/2021
 title: PowerShell on Arm-based systems
-description:   PowerShell on Arm-based systems
-ms.date: 08/09/2021
 ---
 
 # PowerShell  on Arm processors
@@ -13,7 +13,6 @@ following platforms:
 | ---------------------------------- | ------------- | ---------------------------- |
 | Windows 10 Client Version 1607+    | Arm64         | [Windows][Windows-lifecycle] |
 | macOS 10.14+                       | Arm64         | [macOS][macOS-lifecycle]     |
-| Alpine Linux 3.13+                 | Arm32, Arm64  | [Alpine][Alpine-lifecycle]   |
 | Debian 10+                         | Arm32, Arm64  | [Debian][Debian-lifecycle]   |
 | Red Hat Enterprise Linux (RHEL) 7+ | Arm64         | [Red Hat][RHEL-lifecycle]    |
 | Ubuntu 20.10, 20.04, 18.04, 16.04  | Arm32, Arm64  | [Ubuntu][Ubuntu-lifecycle]   |

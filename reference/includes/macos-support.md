@@ -1,9 +1,9 @@
 ---
 author: sdwheeler
 ms.author: sewhee
-ms.date: 08/09/2021
-ms.topic: include
+ms.date: 09/22/2021
 ms.prod: powershell
+ms.topic: include
 ---
 The following table is a list of currently supported PowerShell releases and the versions of
 Windows they are supported on. These versions remain supported until either the version of

@@ -1,6 +1,6 @@
 ---
 description: Details the policies governing support for PowerShell
-ms.date: 09/21/2021
+ms.date: 09/22/2021
 title: PowerShell Support Lifecycle
 ---
 # PowerShell Support Lifecycle
@@ -43,6 +43,11 @@ When a platform version reaches end-of-life as defined by the platform owner, Po
 support on that platform version. Previously released packages remain available for customers
 needing access but formal support and updates of any kind are no longer be provided.
 
+If the PowerShell team has not tested PowerShell on a version of an operating system, that version
+is not supported. If you think there is a need to support a specific version or distribution, you
+can open a request in the PowerShell repository using the
+[Distribution Support Request][distro-req] form.
+
 ## PowerShell End-of-support dates
 
 Based on these lifecycle policies, the following table lists the dates when various releases are no
@@ -51,7 +56,7 @@ longer be supported.
 |      Version      |      End-of-support       |
 | ----------------- | ------------------------- |
 | 7.2 (LTS-preview) | November 2024 (projected) |
-| 7.1 (current)     | May 31, 2022  (projected) |
+| 7.1 (current)     | May 2022  (projected)     |
 | 7.0 (LTS)         | December 3, 2022          |
 | 6.2               | September 4, 2020         |
 | 6.1               | September 28, 2019        |
@@ -194,6 +199,7 @@ for historical reference. It is not intended for use to determine the support li
 [assisted]: https://support.microsoft.com/assistedsupportproducts
 [assurance]: https://www.microsoft.com/licensing/licensing-programs/software-assurance-default
 [community]: /powershell/scripting/community/community-support
+[distro-req]: https://github.com/PowerShell/PowerShell/issues/new?assignees=&labels=Distribution-Request%2CNeeds-Triage&template=Distribution_Request.yaml&title=Distribution+Support+Request
 [enterprise-agreement]: https://www.microsoft.com/licensing/licensing-programs/enterprise
 [exp]: /powershell/scripting/learn/experimental-features
 [lifecycle]: /lifecycle/faq/windows
